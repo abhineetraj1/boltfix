@@ -1,5 +1,11 @@
 # Boltfix App
 
+
+https://github.com/user-attachments/assets/518694c1-b53e-47d7-abae-0465bd2994d2
+
+
+
+
 Boltfix is a mobile application designed for car users to easily register for consultancy services at general workshops without the need for account sign-up. Users can access the app as guests and fill out their personal information when booking a service consultation. The consultation form data is securely stored in MongoDB, allowing authorized service centers to view all bookings through an admin panel. User information is kept private and stored locally on the mobile device, ensuring a seamless and secure user experience.
 
 ## Installation

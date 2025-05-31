@@ -1,11 +1,6 @@
 # Boltfix App
 
 
-https://github.com/user-attachments/assets/518694c1-b53e-47d7-abae-0465bd2994d2
-
-
-
-
 Boltfix is a mobile application designed for car users to easily register for consultancy services at general workshops without the need for account sign-up. Users can access the app as guests and fill out their personal information when booking a service consultation. The consultation form data is securely stored in MongoDB, allowing authorized service centers to view all bookings through an admin panel. User information is kept private and stored locally on the mobile device, ensuring a seamless and secure user experience.
 
 ## Installation
@@ -31,7 +26,7 @@ With these steps completed, your Boltfix app will be ready to run!
 
 # Execution
 
-To get started with the Boltfix app, first navigate to the "flask-server" folder and run the app.py file to start the backend server. Once the Flask server is up and running, open your Android emulator and run the main.dart file to launch the mobile application. This will allow you to seamlessly interact with the app and its functionalities.
+To get started with the Boltfix app, first navigate to the "server" folder and run the app.py file to start the backend server. Once the Flask server is up and running, open your Android emulator and run the main.dart file to launch the mobile application. This will allow you to seamlessly interact with the app and its functionalities.
 
 # Languages and Tools:
 
